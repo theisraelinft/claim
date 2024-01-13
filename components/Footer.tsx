@@ -41,7 +41,7 @@ export default function Footer() {
                                 </svg>
                             </a>
 
-                            <a href="https://opensea.io/collection/israeli_nft" target='_blank'>
+                            <a href="https://opensea.io/collection/theisraelis" target='_blank'>
                                 <svg width="48" height="48" viewBox="0 0 2003.71 2013.65">
                                     <path 
                                     fill="currentColor"
